@@ -31,7 +31,7 @@ Here are the steps to use the application:
 
 6. Now you are ready to use the SQL Database. Please switch the key listed in step 3 to "ADO" if you have not done so already and start the application. 
 
-7. Upon starting up the application, you will see a navbar at the top left. This can be used to return to the main screen at any time.
+7. Upon starting up the application, you will see a navbar at the top left. The MovieLibrary link can be used to return to the main screen at any time.
 
 8. The Add Movie button allows a movie to be added to the database once the necessary data is filled out. 
 
